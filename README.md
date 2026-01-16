@@ -1,4 +1,4 @@
 # NFT app
 A basic design for nft
 
-https://birthday-siteqw.netlify.app/
+https://nft-shoe.netlify.app/
